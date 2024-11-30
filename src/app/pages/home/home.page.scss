@@ -18,3 +18,15 @@ ion-list{
 .lb{
     color:white;
 }
+ion-card{
+    ion-card-subtitle{
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    p{
+        white-space: normal;
+    }
+}
+.ico{
+    color: white;
+}
